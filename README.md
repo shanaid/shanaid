@@ -14,7 +14,6 @@ University : Gongju National University<br>
 KakaoTALK : shanaid<br>
 Religion: Christianity
 
-</summary>
 </details>
 
 ## Skills
