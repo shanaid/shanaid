@@ -4,14 +4,14 @@
 
 <details>
 <summary> Personal information, not about the developer </summary>
-  ```
-NAME : PARK YE BON
-Home Town : Ansan, Republic of Korea
-Major: Department of Information and Communication Engineering
-University : Gongju National University
-KakaoTALK : shanaid
+
+NAME : PARK YE BON<br>
+Home Town : Ansan, Republic of Korea<br>
+Major: Department of Information and Communication Engineering<br>
+University : Gongju National University<br>
+KakaoTALK : shanaid<br>
 Religion: Christianity
-```
+
 </summary>
 </details>
 
