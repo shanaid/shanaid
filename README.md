@@ -1,6 +1,5 @@
-## Hi there 👋
+## everyone i'm Yebon Park 👋
 
-https://github.com/shanaid/shanaid
 
 <!--
 **shanaid/shanaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
